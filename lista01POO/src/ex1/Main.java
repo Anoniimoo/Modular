@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Digite quantos dias você deseja adicionar (Digite apenas o número)");
         d.adicionaDias(sc.nextInt());
         System.out.println("Será " + d.diaDaSemana() + " dia: " + d.getDia());
+        System.out.println("teste git");
     }
 }
