@@ -1,0 +1,12 @@
+1) O encapsulamento tem como objetivo separar os métodos vísiveis de acesso e modificação de seus atributos dos atributos propriamente ditos.
+ Sendo que a herança busca uma maior interação e dependência entre classes. Como consequência dessa dependência ocorre o acoplamento das classes entre si,
+ criando um ambiente que se completa ao envés de várias classes independentes.
+
+4)A implementação de uma classe Cliente que possa ser de dois tipos diferentes,
+ fisico ou jurídico, se torna inviável, no ambito prático, pois uma classe pode ter apenas uma superclass, de forma que essa classe Cliente teria que ter duas,
+ dependendo do contexto. Teoricamente, essa classe também não poderia ter duas classes pai, pois caso ela pudesse ter tamanha diferença entre suas próprias 
+ caracteristicas, ela deveria ser criada como duas outras classes.
+
+
+4) Ao se utilizar o conceito de herença para implementar as classes cliente e funcionário
+geramos um codigo com maior nivel de acoplamento e reaproveitamento.
