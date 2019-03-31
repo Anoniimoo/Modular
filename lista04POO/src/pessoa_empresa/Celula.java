@@ -1,3 +1,5 @@
+package pessoa_empresa;
+
 public class Celula {
     private Object valor;
     private Celula prox;
